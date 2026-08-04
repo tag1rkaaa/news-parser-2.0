@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(iconv -f UTF-16LE -t UTF-8 \"/c/Users/Admin/CURSOR/NEWS PARSER 2.0 \\(2026\\)/requirements.txt\")"
+    ]
+  }
+}

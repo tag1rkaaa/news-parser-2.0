@@ -1,0 +1,38 @@
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+.eggs/
+.tox/
+.venv/
+venv/
+build/
+dist/
+
+# Local config
+.env
+.env.*
+!.env.example
+
+# Runtime artifacts
+logs/
+httpcache/
+*.log
+app.log
+.scrapy/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Test / coverage
+.coverage
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+htmlcov/
